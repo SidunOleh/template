@@ -1,0 +1,13 @@
+{
+    "name": "sova/csv",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": ["const.php", "app/Exceptions/handle.php", "app/Helpers/helpers.php"]
+    },
+    "authors": [{
+        "name": "Oleh Sidun",
+        "email": "sidunoleh@gmail.com"
+    }]
+}
